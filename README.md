@@ -5,7 +5,7 @@
 **Target:** Halcyon (fictional neobank) assistant "Iggy"
 **Environment:** local Docker stack, Ollama `llama3.1:8b`, `HALCYON_MODE` vulnerable → secure
 
-> 🎥 **Walkthrough video (unlisted YouTube):** <PASTE YOUR YOUTUBE LINK HERE>
+> 🎥 **Walkthrough video (unlisted YouTube):** <https://youtu.be/L4DoSYgKs6s>
 
 ---
 
